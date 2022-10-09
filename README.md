@@ -41,6 +41,7 @@
 	- [design-patterns](http://www.vincehuston.org/dp/)
 - Closure
 	- [design-patterns](https://arturoherrero.com/closure-design-patterns/)
+	- [Closure design patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 - Go
 	- [design-patterns](https://github.com/tmrts/go-patterns)
 - Java
